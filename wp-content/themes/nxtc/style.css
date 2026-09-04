@@ -1,0 +1,14 @@
+/*
+Theme Name: NXTC Technologies
+Theme URI: https://nxtconstruction.ai
+Author: NXTC Technologies
+Description: Custom Awwwards-caliber theme for NXTC Technologies — WordPress with React (Vite) islands for 3D UI and rich motion.
+Version: 0.1.0
+Requires at least: 6.4
+Tested up to: 6.7
+Requires PHP: 8.1
+Text Domain: nxtc
+*/
+
+/* Base + component styles are bundled by Vite (see src/styles/main.css).
+   This file only carries the WordPress theme header. */
